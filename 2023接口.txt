@@ -1,0 +1,444 @@
+YS仓
+
+dc-pro：
+https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json
+
+dc：
+https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dc608.json
+
+
+
+
+多仓地址：
+http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
+https://jihulab.com/duomv/apps/-/raw/main/fast.json
+https://maoyingshi.cc/可视TV/云星日记/仓库.json
+http://tv.nxog.top/api.php?mz=xb&id=1&b=白嫖小蚂蚁
+http://52bsj.vip:98/wuaihouse
+https://gitee.com/wdc558/TVBox/raw/master/KuYuan/Calendre.json
+
+
+接口(新)：
+
+https://源享家.ml/230607
+或
+http://源享家.ml/230607
+
+小米      小暴脾气接口：
+http://xhww.fun:63/小米/DEMO.json
+
+饭太硬   公益接口：
+http://xn--sss604efuw.top/tv
+
+吾爱（多条线路）
+http://52bsj.vip:98/wuai
+
+运输车（多条线路）
+https://weixine.net/ysc.json
+
+巧技接口（多条线路）
+https://agit.ai/relax/adcc/raw/branch/master/tvbox.json
+
+蚂蚁（6仓）
+https://agit.ai/n/b/raw/branch/master/o/n.json
+
+直播
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
+
+星辰
+http://134.122.170.64/dc.json
+
+猫影
+http://miaotvs.cn/meow
+
+ZB
+http://52bsj.vip:81/api/v3/file/get/104450/给生活加点色.txt?sign=o9w622iPBeKVkaR-_VXyEAtdLnBhue-zA2urmp1pcMM=:0
+
+
+
+乐享影视多条线路
+https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json
+
+https://jihulab.com/ygbh1/box/-/raw/main/dcang/ygbh.json
+接口1（通用）：http://我不是.肥猫.love:63/接口禁止贩卖
+接口2（仅支持影视或影视仓 最新版）：http://我不是.肥猫.love:63/影视
+精品多仓 
+https://i0k.cn/2xa129 
+ 仓库 
+https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json 
+https://agit.ai/VivoMax/online/raw/branch/master/多线路.json  
+
+影视仓多仓  
+https://gitlab.com/ygbh1/666/-/raw/main/dcang/ygbh.json  
+
+ 月光宝盒多仓  
+https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc.json  
+
+星河多仓  
+http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0  
+
+ 多多接口多仓  
+https://jihulab.com/duomv/apps/-/raw/main/fast.json  
+
+多多多仓  
+https://jihulab.com/duomv/apps/-/raw/main/duo.json  
+ 
+影视仓多仓  
+http://52bsj.vip:98/xiaohu  
+ 
+宝盒多仓  
+https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json  
+ 
+宝盒max多仓  
+https://agit.ai/butterfly/md/raw/branch/master/zYGBHmax   
+
+吾爱有三日月与卿仓库地址：  
+http://52bsj.vip:98/wuaihosue  
+
+小胡软件多仓：https://agit.ai/xiaohu/tvbox/raw/branch/main/duocang  
+
+云星日记仓库地址：  
+https://itvbox.cc/可视TV/云星日记/仓库.json  
+ 
+猎狼多仓  
+http://tvbox.lltv8.top  
+
+ 多仓  
+http://134.122.170.64/dc.json
+
+
+https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json
+
+龙门：
+http://api.lotics.com
+http://m35.grelighting.cn/html/zb1.txt
+
+蚂蚁视界（近130条线路）
+http://52bsj.vip:81/api/v3/file/get/137243/%E6%98%9F%E6%B2%B3%E7%BB%BC%E5%90%88%E4%BB%93.txt?sign=0dPh50UsoSEny8epaGlnQu1Vi7bJ1E0h1OyXuUMYOVk%3D%3A0
+欧歌：
+https://tv.nxog.top
+
+星辰仓
+http://8.210.232.168/dc.json
+531更新：
+https://ghproxy.com/https://raw.githubusercontent.com/jigedos/dym/master/master531.json
+此接口已在影视仓、taka99上验证。
+小苹果
+http://m35.grelighting.cn/a001.asp
+
+月光影视仓
+https://jihulab.com/ygbh1/box/-/raw/main/dcang/ygbh.json
+http://pandown.pro/tvbox/zhibo.txt
+影视仓
+pro版：
+https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro528.json
+普版:
+https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dc528.json
+
+欧歌央视仓（4仓）
+https://tv.nxog.top
+http://m.nxog.top/m/tv/index.php
+
+月光盒子：
+http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0
+https://uujs.ml/f/Ymps7/pro.txt
+http://8.210.232.168/xclive.txt
+
+直播
+http://epg.112114.xyz
+http://shuyuan.miaogongzi.net/shuyuan/1681239026.txt
+
+
+https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json
+
+http://byyds.top/w.txt
+
+https://dxawi.github.io/0/0.json
+
+https://download.kstore.space/download/2863/01.txt
+
+https://liu673cn.github.io/box/m.jsonhttps://raw.liucn.cc/box/m.json
+
+https://raw.liucn.cc/box/xiaopingguo.json
+
+http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0
+
+https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt
+
+https://cdn.jsdelivr.net/gh/chengxueli818913/maoTV@main/44.txt
+
+https://freed.yuanhsing.cf/TVBox/meowcf.json
+
+https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.jsonhttp://js.134584.xyz/json/pp87.json
+
+http://52bsj.vip:98/wuaihttps://pastebin.com/raw/gtbKvnE1
+
+https://cdn.jsdelivr.net/gh/GaiVmao/dianshiyuan@main/yuan2.txt
+
+https://raw.iqiq.io/liu673cn/box/main/m.json
+
+https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json
+
+https://ghproxy.com/
+
+
+https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.jsonhttps://ghproxy.com/
+
+
+https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json
+
+
+本期直播源：
+
+https://notabug.org/qizhen15800/My9394/raw/master/live/tv.txt
+
+本期点播源：
+
+http://mtw.so/6vkQqc
+
+苹果
+http://52bsj.vip:81/api/v3/file/get/159554/%E6%9C%88.txt?sign=Y0kBbP2KBCSb2_W5645mbAIyD5OMhvMmA50VHj6Wrjc%3D%3A0
+
+猫壳
+接口：1：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+         2：https://dxawi.github.io/0/0.json
+
+《月光宝盒XLITE》解压123456  频道码：5
+海内外资源！！内含VIP线路！
+https://pan.quark.cn/s/efa29d57c52f
+粉丝福利，必看：
+https://flowus.cn/share/57636d7a-94e7-4658-a6cc-379b207fa597
+
+猫技
+https://agit.ai/ddx/TVBox/raw/branch/master/d.json
+
+云星：https://gitee.com/the-latest-interface-of-box/box/raw/master/06201
+
+胖鸭：https://gitee.com/the-latest-interface-of-box/box/raw/master/06202
+
+讴歌：https://gitee.com/the-latest-interface-of-box/box/raw/master/06203
+
+接口源：https://raw.kgithub.com/gaotianliuyun/gao/master/js.json
+
+欧歌
+http://tv.nxog.top
+《瑶瑷影视仓》
+http://shuyuan.miaogongzi.net/shuyuan/1687413824.txt
+
+https://chuanrui.lanzoul.com/isHUm0zylwqj     
+单仓接口https://gitee.com/lichuanrui/iptv/raw/master/chuanshuo.json  
+多仓接口https://gitee.com/lichuanrui/iptv/raw/master/duo→521高清影视再
+
+运输车 
+多仓配置，国内加速 
+https://weixine.net/api.json 
+备用加速(拉取失败的用这条切换Dns) 
+https://cf.weixine.net/api.json 
+国内单线路 
+http://ysc.weixine.net:33/ 
+
+潇洒接口源：
+https://gitee.com/the-latest-interface-of-box/box/raw/master/062502
+南风接口源：
+https://gitee.com/the-latest-interface-of-box/box/raw/master/062503
+运输船接口：
+https://gitee.com/the-latest-interface-of-box/box/raw/master/062501
+
+
+胖丫接口源链接：
+http://mtw.so/5T1cL4
+云星接口源链接：
+http://mtw.so/5wsCrN
+讴歌接口源链接：
+http://mtw.so/5wsCdB
+
+多多主用多仓接口（加载速度快）：https://jihulab.com/duomv/apps/-/raw/main/fast.json
+备用1：https://gitlab.com/duomv/apps/-/raw/main/fast.json
+备用2：https://agit.ai/leevi/apps/raw/branch/main/fast.json
+备用3：https://codeberg.org/leevi/apps/raw/branch/main/fast.json
+
+小胡
+仓库：https://xzam.cn/仓库/多仓
+接口：https://xzam.cn/tv
+备用仓库：https://s2.pub/cangku
+备用接口：https://s2.pub/v
+
+龙凤直播密码789,
+http://52bsj.vip:81/api/v3/file/get/155019/%E6%9D%8E%E5%A4%AA%E7%99%BDTV.txt?sign=aTGPRGpsIX-DfXvsOPXL1xQZUHpJCbbeusPqSuSxqJo%3D%3A0
+
+龙门
+http://api.lotics.com
+
+蚂蚁
+https://agit.ai/ddx/TVBox/raw/branch/master/d.json
+
+夜猫子
+https://download.kstore.space/download/3313/mao/ymz
+
+猫技
+https://agit.ai/ddx/TVBox/raw/branch/master/d.json
+
+非内置源配置接口：
+http://152.136.125.181:81/MM/公众号玖妖收藏/lanhe/lanhe.json
+
+多仓地址
+
+欧歌仓   http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌
+
+应用多多 https://jihulab.com/duomv/apps/-/raw/main/fast.json
+
+云星日记 https://maoyingshi.cc/可视TV/云星日记/仓库.json
+
+吾爱多仓 http://52bsj.vip:98/wuaihouse
+
+白嫖     http://tv.nxog.top/api.php?mz=xb&id=1&b=白嫖小蚂蚁
+
+Calen    https://gitee.com/wdc558/TVBox/raw/master/KuYuan/Calendre.json
+
+
+单仓地址
+
+应用多多家庭版  https://yydsys.top/duo
+
+阿里精品路线    https://yydsys.top/duo/ali
+
+饭太硬线路      http:/太硬.top/tv
+
+肥猫不是猫      http://我不是.肥猫.love:63/接口禁止贩卖
+
+唐三藏          https://gh.t4tv.hz.cz/newtang.bmp
+
+蜂蜜            https://raw.iqiq.io/FongMi/CatVodSpider/main/json/config.json
+
+道长            https://pastebin.com/raw/5NHaxyGR
+
+莱妮丝          https://tvbox.cainisi.cf
+
+小米            http://xhww.fun:63/小米/DEMO.json
+
+小雅            http://101.34.67.237/config/1
+
+俊佬            http://home.jundie.top:81/top98.json
+
+霜辉月明        https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
+
+dxawi0线路      http://dxawi.github.io/0/0.json
+
+小苹果          https://agit.ai/leevi/apps/raw/branch/main/xpg.json
+
+老刘备          https://raw.liucn.cc/box/m.json
+
+运输车          https://weixine.net/ysc.json
+
+潇洒            https://la.kstore.space/download/2863/01.txt
+
+南风            https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+蚂蚁论坛        https://la.kstore.space/download/2883/0110.txt
+
+月光宝盒        https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92
+
+欧歌            http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2
+
+吾爱            http://52bsj.vip:98/wuai
+
+云星日记        http://itvbox.cc/tvbox/云星日记/1.m3u8
+
+喵影视          http://miaotvs.cn/meow
+
+源享家          https://源享家.ml/23424
+
+星辰            http://8.210.232.168/xc.json
+
+分享者          https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8
+
+冰河            https://ju.binghe.ga/4.txt
+
+不良帅          https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8
+
+乱世            http://www.dmtv.ml/mao/single.json
+
+一影视          https://raw.iqiq.io//tv-player/tvbox-line/main/tv/fj.json
+
+佰欣园          https://raw.iqiq.io/chengxueli818913/maoTV/main/44.txt
+
+甜蜜            https://raw.gitmirror.com/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json
+
+一木            https://raw.iqiq.io/xianyuyimu/TVBOX-/main/TVBox/%E4%B8%80%E6%9C%A8%E8%87%AA%E7%94%A8.json
+
+小马            https://szyyds.cn/tv/x.json
+
+夜猫子          https://download.kstore.space/download/3313/mao/ymz
+
+荷城茶秀        https://raw.iqiq.io/XiaoYiChaHang/tvbox/main/ysj.json
+
+高天流云        https://raw.iqiq.io/gaotianliuyun/gao/master/js.json
+
+胖鸭            https://agit.ai/cyl518/yl/raw/branch/master/ml.json
+
+元兴            https://freed.yuanhsing.cf/TVBox/meowcf.json
+
+刺桐            https://gitee.com/ghzyw/cttv/raw/cttv-iptv/json/cttv.json
+
+小胡            https://jihulab.com/xiaohutx/box/-/raw/main/0.json
+
+恋影            https://www.lianyingtv.com/fast/fast
+
+
+【月光寶盒PRO直播源】https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
+【肥羊影音直播源】①https://github.com/22705/IPTV-2/tree/main
+
+②https://sourl.cn/y4kFym
+
+③https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
+
+④https://tvsee.github.io/diyp/tv.txt
+
+
+小米     小暴脾气DEMO接口
+http://
+xhww.fun:63/小米/DEMO.json
+
+饭太硬  公益接口
+http://
+饭太硬.ml/tv
+
+http://
+饭太硬.top/tv 
+
+月光寶盒PRO直播源：https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt
+
+肥羊影音直播源：https://github.com/22705/IPTV-2/tree/main
+
+https://sourl.cn/y4kFym
+
+https://live.fanmingming.com/tv/m3u/global.m3u
+
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
+
+https://tvsee.github.io/diyp/tv.txt
+
+月光宝盒box接口：https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒
+月光宝盒影视接口：https://jihulab.com/ygbh1/box/-/raw/main/ys.json
+月光宝盒MAX接口：https://jihulab.com/ygbh1/box/-/raw/main/dcang/dc2.json
+月光宝盒影视仓接口：https://jihulab.com/ygbh1/box/-/raw/main/dcang/ygbh.json
+
+其他大神接口：
+小苹果复刻接口：https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json
+肥猫接口：http://我不是.肥猫.love:63/接口禁止贩卖
+饭老接口：http:/太硬.ga/tv
+菜尼斯接口：https://tvbox.cainisi.cf
+吾爱接口：http://52bsj.vip:98/wuai
+运输车接口：https://weixine.net/ysc.json
+多多家庭：https://yydsys.top/duo
+
+
+
+
+
+
+
+
+

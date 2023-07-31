@@ -1,7 +1,28 @@
 
 {
   "urls": [
+      
       {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/tvbox2.json",
+      "name": "💯建全分享者线[全哥东二仓]"
+    },
+
+
+   {
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dc608.json",
+      "name": "💯建全分享者线[YS仓]"
+    },
+ {
+      "url": "https://agit.ai/n/b/raw/branch/master/o/n.json",
+      "name": "💯建全分享者线[影视仓]"
+    },
+
+ {
+      "url": "http://8.210.232.168/dc.json",
+      "name": "💯建全分享者线[星辰]"
+    },
+
+    {
       "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
       "name": "💯建全分享者线[多多接口多仓]"
     },

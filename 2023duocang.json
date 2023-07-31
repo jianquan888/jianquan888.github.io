@@ -1,7 +1,27 @@
 
 {
   "urls": [
-   
+      {
+      "url": "https://jihulab.com/duomv/apps/-/raw/main/fast.json",
+      "name": "💯建全分享者线[多多接口多仓]"
+    },
+   {
+      "url": "https://jihulab.com/duomv/apps/-/raw/main/duo.json",
+      "name": "💯建全分享者线[多多多仓]"
+    },
+  {
+      "url": "http://8.210.232.168/dc.json",
+      "name": "💯建全分享者线[星辰仓]"
+    },
+   {
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json",
+      "name": "💯建全分享者线[猫技]"
+    },
+
+  {
+      "url": "https://weixine.net/api.json",
+      "name": "💯建全分享者线[运输车]"
+    },
     {
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/jigedos/mengzehe/main/yyfx.json",
       "name": "💯建全分享者线[527]"
